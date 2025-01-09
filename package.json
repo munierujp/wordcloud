@@ -13,7 +13,7 @@
     "node": "20.12.2"
   },
   "dependencies": {
-    "commander": "12.1.0",
+    "commander": "13.0.0",
     "fp-ts": "2.16.9",
     "io-ts": "2.2.22",
     "log4js": "6.9.1",
